@@ -17,9 +17,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Digital signal processing
+- Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing
+- Embedded systems and Internet-of-Things (IoT)
 
 # Education to show in About widget
 education:
