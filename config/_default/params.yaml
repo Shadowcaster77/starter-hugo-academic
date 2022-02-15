@@ -106,3 +106,7 @@ extensions:
     enable: true
   academicons:
     enable: true
+    
+- icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
