@@ -26,13 +26,13 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering
     institution: Duke University
-    year: 2021 - Present
+    year: Present
   - course: MEng in Electrical and Computer Engineering
     institution: Cornell University
-    year: 2022 - 2021
+    year: 2021
   - course: BSc in Electrical and Computer Engineering
     institution: Rutgers University
-    year: 2016 - 2022
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
