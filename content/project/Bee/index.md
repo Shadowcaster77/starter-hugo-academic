@@ -6,13 +6,12 @@ tags:
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
 
 image:
   focal_point: Smart
 
 links:
-url_website: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
