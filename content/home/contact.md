@@ -25,11 +25,11 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: zhenzhou.qi@duke.edu
+  phone: 732 322 2498
   address:
     street: 450 Serra Mall
-    city: Stanford
+    city: Durham
     region: CA
     postcode: '94305'
     country: United States
