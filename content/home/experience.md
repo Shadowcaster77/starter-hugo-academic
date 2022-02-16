@@ -27,7 +27,7 @@ experience:
     company: Duke University
     # company_logo: org-gc
     location: Durham, NC
-    date_start: 'Aug 2021'
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
