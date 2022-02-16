@@ -28,7 +28,7 @@ content:
   
   - name: All
     tag: '*'
-  - name: Deep Learning
+  - name: ML/DL
     tag: ML/DL
   - name: DSP
     tag: Digital Signal Processing
