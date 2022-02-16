@@ -26,15 +26,13 @@ experience:
   - title: Research Assistant
     company: Duke University
     # company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Durham, NC
+    date_start: 'Aug 2021'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Implement a spectrum sensing pipeline to perform extensive spectrum measurements and data collection for characterizing the spectrum usage and properties of potential interferers; 
+        * develop an intelligent control plane, which integrates software-defined networking and machine learning techniques, for efficient spectrum monitoring, management, and resource allocation.
         
   - title: Professor of Semiconductor Physics
     company: University X
