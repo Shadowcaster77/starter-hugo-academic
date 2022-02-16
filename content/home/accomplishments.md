@@ -36,18 +36,18 @@ item:
   description: "top 5% in ECE"
   title: Class of 2020 graduation with highest honor (Summa Cum Laude)
   
-  - date_end: ""
+- date_end: ""
   date_start: "2020-05-01"
   organization: Rutgers University
   title: School of Engineering, ECE Capstone Design #7
   
-  - date_end: ""
+- date_end: ""
   date_start: "2020-05-01"
   organization: Rutgers University
   description: "Fall & Spring 2016 - 2020"
   title: Dean's List
   
-  - date_end: ""
+- date_end: ""
   date_start: "2017-09-01"
   organization: Rutgers University
   description: "Calc II & Multi Calc"
