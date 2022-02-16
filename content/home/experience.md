@@ -25,24 +25,23 @@ date_format: Jan 2006
 experience:
   - title: Research Assistant
     company: Duke University
-    # company_logo: org-gc
     location: Durham, NC
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
         * Implement a spectrum sensing pipeline to perform extensive spectrum measurements and data collection for characterizing the spectrum usage and properties of potential interferers; 
         * develop an intelligent control plane, which integrates software-defined networking and machine learning techniques, for efficient spectrum monitoring, management, and resource allocation.
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
-
+  - title: Research Assistant
+    company: Cornell University
+    location: Ithaca, NY
+    date_start: '2020-09-01'
+    date_end: '2021-05-15'
+    description: 
+    * Developed a customized Multiple Sclerosis Lesion Segmentation (MulS) challenge that allows teams to submit their outcomes for competition; 
+    * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
+    * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
+    * 
 design:
   columns: '2'
 ---
