@@ -29,9 +29,7 @@ item:
   description: ""
   organization: Duke University
   title: ACM SIGMOBILE Student Community Grant
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
+- date_end: ""
   date_start: "2021-01-01"
   description: Formulated informed blockchain models, hypotheses, and use cases.
   organization: edX
