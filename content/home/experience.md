@@ -29,18 +29,16 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        * Implement a spectrum sensing pipeline to perform extensive spectrum measurements and data collection for characterizing the spectrum usage and properties of potential interferers; 
-        * develop an intelligent control plane, which integrates software-defined networking and machine learning techniques, for efficient spectrum monitoring, management, and resource allocation.
+        * Facilitating Open-Access Millimeter-wave and Massive MIMO Research in the COSMOS and ORBIT Testbeds
+        * Spectrum Sensing & Management for CBRS
+
         
   - title: Research Assistant
     company: Cornell University
     location: Ithaca, NY
     date_start: '2020-09-01'
     date_end: '2021-05-15'
-    description: |2-
-      * Developed a customized Multiple Sclerosis Lesion Segmentation (MulS) challenge that allows teams to submit their outcomes for competition; 
-      * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
-      * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
+    description: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge 
 
   - title: Research Assistant
     company: Rutgers University
@@ -48,10 +46,10 @@ experience:
     date_start: '2018-02-01'
     date_end: '2020-05-15'
     description: |2-
-      * Developed a customized Multiple Sclerosis Lesion Segmentation (MulS) challenge that allows teams to submit their outcomes for competition; 
-      * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
-      * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
+      * Investigating the Biological Impacts of Radio Spectrum Transmissions
+      * Smart Sweet Spot of Your Home Stereos
+      * Low-Power, Low-Latency, IoT Communications Systems Coexistence with C-RAN 
 
 design:
-  columns: '2'
+  columns: '1'
 ---
