@@ -29,14 +29,29 @@ item:
   description: ""
   organization: Duke University
   title: ACM SIGMOBILE Student Community Grant
-- date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
   
+- date_end: ""
+  date_start: "2020-05-01"
+  organization: Rutgers University
+  description: "top 5% in ECE"
+  title: Class of 2020 graduation with highest honor (Summa Cum Laude)
+  
+  - date_end: ""
+  date_start: "2020-05-01"
+  organization: Rutgers University
+  title: School of Engineering, ECE Capstone Design #7
+  
+  - date_end: ""
+  date_start: "2020-05-01"
+  organization: Rutgers University
+  description: "Fall & Spring 2016 - 2020"
+  title: Dean's List
+  
+  - date_end: ""
+  date_start: "2017-09-01"
+  organization: Rutgers University
+  description: "Calc II & Multi Calc"
+  title: Math Honor Session
 
 design:
   columns: '2' 
