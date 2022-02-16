@@ -25,10 +25,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
+  
   - name: All
     tag: '*'
   - name: Deep Learning
-    tag: Deep Learning
+    tag: ML/DL
+  - name: DSP
+    tag: Digital Signal Processing
+  - name: 3D Printing
+    tag: control
+  - name: RF
+    tag: Radio Frequency
   - name: Other
     tag: Demo
 
