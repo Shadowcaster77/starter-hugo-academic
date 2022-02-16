@@ -21,6 +21,13 @@ url_website: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
-As rapid expansion of the low-cost next billion devices, wireless sensor networks (WSN) undertake much denser low-end internet of things (IoT) nodes nowadays. In the meantime, the future next 5 generation (5G) radio base stations (BS) are granted more capabilities. Distributed cloud radio access network (C-RAN) is becoming available for the future massive WSN. However, real-world distributed C-RAN is less explored for low-end IoT based WSN due to its difficulties in implementation. In this paper, we built a distributed C-RAN which has tens of distributed radio frontends using USRP N210s in a 20 × 20 × 3 m3 area. By exploiting the inherent hardware properties of low-end IoT devices and the spatial diversity of distributed C-RAN system, we show the distributed C-RAN can potentially decode collided signals from low-end IoT devices with all signal processing been done on the cloud.
-
+The past 40 years have seen an explosion of Radio Frequency (RF)
+transmitters, which motivates understanding their impacts on the
+natural world. The European honeybee, Apis Mellifera, has been
+shown to sense the Earth’s magnetic field. Human Radio Frequency
+(RF) transmitters alter this field. For example, recent work demonstrated that human-created RF interferes with the common robin’s
+ability to orient themselves. This work proposes an experimental
+design to determine if honeybees can sense RF transmissions in
+frequencies from 1 MHz (AM radio) to 6 GHz (WiFi). We deployed
+a custom-designed RF bee feeder near bee hives to test honeybees’
+RF sensing ability
