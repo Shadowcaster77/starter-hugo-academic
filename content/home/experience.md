@@ -37,7 +37,7 @@ experience:
     location: Ithaca, NY
     date_start: '2020-09-01'
     date_end: '2021-05-15'
-    description: 
+    description: |2-
     * Developed a customized Multiple Sclerosis Lesion Segmentation (MulS) challenge that allows teams to submit their outcomes for competition; 
     * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
     * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
