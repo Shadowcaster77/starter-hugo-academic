@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Research Assistant
-    company: Duke University
-    location: Durham, NC
-    date_start: '2021-08-01'
-    date_end: ''
+  - title: Engineering Ambassador
+    company: School of Engineering, Rutgers University
+    location: Piscataway, NJ
+    date_start: '2018-09-01'
+    date_end: '2020-05-14'
     description: |2-
-        * Facilitating Open-Access Millimeter-wave and Massive MIMO Research in the COSMOS and ORBIT Testbeds
-        * Spectrum Sensing & Management for CBRS
+        * Provide campus tours, sit on student panels, participate in Engagement events
+        * Serve as a representative to share the mission and vision
 
 design:
   columns: '2'
