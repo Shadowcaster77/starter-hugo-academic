@@ -33,7 +33,7 @@ item:
 - date_end: ""
   date_start: "2020-05-01"
   organization: Rutgers University
-  description: "top 5% in ECE"
+  description: "Top 5% in ECE"
   title: Class of 2020 graduation with highest honor (Summa Cum Laude)
   
 - date_end: ""
