@@ -1,6 +1,6 @@
 ---
-title: Low-Power, Low-Latency, IoT Communications Systems Coexistence with C-RAN 
-summary: Distributed C-RAN can potentially decode collided signals from low-end IoT devices with all signal processing been done on the cloud.
+title: Investigating the Biological Impacts of Radio Transmissions
+summary: Measure the response of apis mellifera (the western honeybee) to Radio-Frequency Electromagnetic fields (RF-EMF)
 tags:
 - Radio Frequency
 date: "2016-04-27T00:00:00Z"
@@ -12,7 +12,7 @@ image:
   focal_point: Smart
 
 links:
-url_video: "https://youtu.be/5UAKY2ZI1GM"
+url_website: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
