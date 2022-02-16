@@ -52,13 +52,6 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/zhenzhou-qi/
 
-# Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
-# and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
-
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "zhenzhou.qi@duke.edu"
 
@@ -66,6 +59,6 @@ email: "zhenzhou.qi@duke.edu"
 highlight_name: true
 ---
 
-Zhenzhou Qi is a Ph.D. student in department of Electrical and Computer Engineering at Duke University advised by Professor Tingjun Chen. His research interests include Digital signal processing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Embedded systems and Internet-of-Things (IoT). He works in the Duke Wireless Lab, which works on next-generation wireless networks and systems.
+Zhenzhou Qi is a Ph.D. student in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. His research interests include Digital signal processing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Embedded systems and Internet-of-Things (IoT). He works in the Duke Wireless Lab, which works on next-generation wireless networks and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
