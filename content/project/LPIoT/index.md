@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Low-Power, Low-Latency, IoT Communications Systems Coexistence with C-RAN 
+summary: Distributed C-RAN can potentially decode collided signals from low-end IoT devices with all signal processing been done on the cloud.
 tags:
 - Radio Frequency
 date: "2016-04-27T00:00:00Z"
@@ -12,9 +12,6 @@ image:
   focal_point: Smart
 
 links:
-url_code: ""
-url_pdf: ""
-url_slides: ""
 url_video: "https://youtu.be/5UAKY2ZI1GM"
 
 # Slides (optional).
