@@ -28,16 +28,21 @@ content:
   
   - name: All
     tag: '*'
+    
   - name: ML/DL
     tag: ML/DL
+    
   - name: DSP
     tag: Digital Signal Processing
+    
   - name: 3D Printing
     tag: control
+    
   - name: RF
     tag: Radio Frequency
+    
   - name: Other
-    tag: Demo
+    tag: Other
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
