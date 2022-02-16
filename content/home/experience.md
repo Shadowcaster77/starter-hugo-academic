@@ -51,5 +51,5 @@ experience:
       * Low-Power, Low-Latency, IoT Communications Systems Coexistence with C-RAN 
 
 design:
-  columns: '1'
+  columns: '2'
 ---
