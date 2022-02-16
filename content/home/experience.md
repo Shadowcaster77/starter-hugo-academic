@@ -42,7 +42,15 @@ experience:
       * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
       * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
 
-
+  - title: Research Assistant
+    company: Rutgers University
+    location: Piscataway, NJ
+    date_start: '2018-02-01'
+    date_end: '2020-05-15'
+    description: |2-
+      * Developed a customized Multiple Sclerosis Lesion Segmentation (MulS) challenge that allows teams to submit their outcomes for competition; 
+      * Use Pyqt5 and VTK to design GUI for our new segmentation method; 
+      * Reproduced methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
 
 design:
   columns: '2'
