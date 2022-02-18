@@ -8,7 +8,7 @@ authors:
 - Murtadha Aldeer
 - Joseph Florentine
 - Justin Yu, Liam Ryan
-- Admin
+- admin
 - Jakub Kolodziejski
 - Mike Haberland
 - Richard E Howard
