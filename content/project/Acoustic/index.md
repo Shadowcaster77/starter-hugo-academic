@@ -9,6 +9,8 @@ image:
   focal_point: Smart
 
 links:
+url_video: "https://drive.google.com/file/d/1P3Vv0tY7YSBoEecieOjviVpijW2wJ2Jn/view?usp=sharing"
+
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
