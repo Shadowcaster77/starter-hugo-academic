@@ -25,7 +25,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 18th Conference on Embedded Networked Sensor Systems*
-publication_short: In *ACM SenSys*
+publication_short: In *ACM SenSys’20*
 
 abstract: The past 40 years have seen an explosion of Radio Frequency (RF) transmitters, which motivates understanding their impacts on the natural world. The European honeybee, Apis Mellifera, has been shown to sense the Earth's magnetic field. Human Radio Frequency (RF) transmitters alter this field. For example, recent work demonstrated that human-created RF interferes with the common robin's ability to orient themselves. This work proposes an experimental design to determine if honeybees can sense RF transmissions in frequencies from 1 MHz (AM radio) to 6 GHz (WiFi). We deployed a custom-designed RF bee feeder near bee hives to test honeybees' RF sensing ability.
 
