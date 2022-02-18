@@ -5,9 +5,6 @@ tags:
 - Digital Signal Processing
 date: "2020-05-24T00:00:00Z"
 
-# Optional external URL for project (replaces project detail page).
-external_link: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
-
 image:
   focal_point: Smart
 
@@ -27,9 +24,4 @@ movies, or even live concerts, it
 is a great way to relax.
 However, people may find that
 aligning the speakers in their
-home stereos tedious. What
-annoys them most is that even
-when they move around their
-furniture, the positions of the
-speakers have to move
-accordingly. To address this problem, we come up with a novel way to slove this problem using the techniuqe of beamforming. 
+home stereos tedious. To address this problem, we come up with a novel way by using the techniuqe of beamforming. We build an End-to-End System from a set of speakers, omidirectional microphone, Raspberry-Pi implementing the one-bit phase alignment algorithm which enables our system to produce the best sound effect at any arbitrary locations without physically moving the positions of the speakers. 
