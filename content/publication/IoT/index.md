@@ -5,7 +5,7 @@ title: "Low-Power, Low-Latency, IoT Communications Systems Coexistence with C-RA
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
--Xiaoran Fan
+- Xiaoran Fan
 - admin
 - Zhenhua Jia
 - Yanyong Zhang
