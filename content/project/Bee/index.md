@@ -3,7 +3,7 @@ title: Investigating the Biological Impacts of Radio Transmissions
 summary: Measure the response of apis mellifera (the western honeybee) to Radio-Frequency Electromagnetic fields (RF-EMF)
 tags:
 - Radio Frequency
-date: "2016-04-27T00:00:00Z"
+date: "2020-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.orbit-lab.org/wiki/Other/Summer/2020/Bees"
