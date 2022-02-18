@@ -20,13 +20,16 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-The past 40 years have seen an explosion of Radio Frequency (RF)
-transmitters, which motivates understanding their impacts on the
-natural world. The European honeybee, Apis Mellifera, has been
-shown to sense the Earth’s magnetic field. Human Radio Frequency
-(RF) transmitters alter this field. For example, recent work demonstrated that human-created RF interferes with the common robin’s
-ability to orient themselves. This work proposes an experimental
-design to determine if honeybees can sense RF transmissions in
-frequencies from 1 MHz (AM radio) to 6 GHz (WiFi). We deployed
-a custom-designed RF bee feeder near bee hives to test honeybees’
-RF sensing ability
+Home stereos are common in most families. Either
+implemented in basements or
+living rooms, playing music,
+movies, or even live concerts, it
+is a great way to relax.
+However, people may find that
+aligning the speakers in their
+home stereos tedious. What
+annoys them most is that even
+when they move around their
+furniture, the positions of the
+speakers have to move
+accordingly. To address this problem, we come up with a novel way to slove this problem using the techniuqe of beamforming. 
