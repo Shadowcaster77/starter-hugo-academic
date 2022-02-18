@@ -5,7 +5,14 @@ title: "Investigating the biological impacts of radio transmissions"
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Murtadha Aldeer, Joseph Florentine, Justin Yu, Liam Ryan, **Zhenzhou Qi**, Jakub Kolodziejski, Mike Haberland, Richard E Howard, Richard P Martin
+- Murtadha Aldeer
+- Joseph Florentine
+- Justin Yu, Liam Ryan
+- Zhenzhou Qi
+- Jakub Kolodziejski
+- Mike Haberland
+- Richard E Howard
+- Richard P Martin
 
 # Author notes (optional)
 # author_notes:
