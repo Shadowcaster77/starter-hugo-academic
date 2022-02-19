@@ -1,5 +1,5 @@
 ---
-title: Development of A Prototype Material Extrusion/ Laser Deposition System with In-Process Monitoring and Control
+title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
 summary: Development of an affordable and functional system to extrude various polymers into a filament for use in fused filament fabrication 3D printers.
 tags:
 - control
