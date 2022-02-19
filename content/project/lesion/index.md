@@ -1,9 +1,9 @@
 ---
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
-summary: Development of an affordable and functional system to extrude various polymers into a filament for use in fused filament fabrication 3D printers.
+summary: Reproduce methods: FLEXCONN, OASIS, LST, TOADS to compare to our results and use pyqt5, VTK to design GUI for new methods.
 tags:
 - control
-date: "2019-08-27T00:00:00Z"
+date: "2021-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
