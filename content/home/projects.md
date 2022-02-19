@@ -30,7 +30,7 @@ content:
     tag: '*'
     
   - name: ML/DL
-    tag: ML/DL
+    tag: machine learning
     
   - name: DSP
     tag: Digital Signal Processing
