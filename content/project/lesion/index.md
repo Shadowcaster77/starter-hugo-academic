@@ -1,6 +1,6 @@
 ---
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
-summary: Pyqt GUI
+summary: Pyqt VTK GUI design. 
 tags:
 - ML/DL
 date: "2021-05-27T00:00:00Z"
