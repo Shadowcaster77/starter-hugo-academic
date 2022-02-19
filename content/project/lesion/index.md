@@ -1,6 +1,6 @@
 ---
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
-summary: 
+summary: Pyqt GUI
 tags:
 - ML/DL
 date: "2021-05-27T00:00:00Z"
@@ -12,7 +12,6 @@ image:
   focal_point: Smart
 
 links:
-url_poster: "https://docs.google.com/presentation/d/1ZL-kJ8zSG11-SB56arI9WfT37TX5uw00TusL8tMbz54/edit?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -21,7 +20,6 @@ url_poster: "https://docs.google.com/presentation/d/1ZL-kJ8zSG11-SB56arI9WfT37TX
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 Multiple sclerosis (MS) is a chronic, inflammatory demyelinating disease of the central nervous system in the brain. Magnetic resonance imaging (MRI) is critically important in clinical practice to characterize MS lesions and provide important biomarkers for diagnosis and prognosis. However, MS lesion segmentation is quite challenging and complicated as lesions vary vastly in terms of location, appearance, size, and shape. Thus, there is an apparent need for the automatic detection and segmentation of MS lesions. The current public MS challenge dataset has its limitations due to its small scale, lack of diversity, efficient and effective evaluation criteria. Thus, we will build a new challenge for MS lesion segmentation to promote research in this field.
 
 Successfully train data sets from isbi-15 and get predictions for test datasets using FLEXCONN. For method LST, able to successfully find a bug inside their open-sourced codes and has contacted the developer to notice the problem found. Using the same set of data as used in FLEXCONN, I can process MRI images (by reorienting the image) and identify MS lesions to produce both probability and binary maps. For method OASIS, able to use R from scratch. Based on the API provided, come up with code and provide user manuals guiding how to load images to R, perform cross-sectional MS Lesion Segmentation; process; show results through the FSLR interface, and generate binary maps to submit to the Lesion Challenges. 
