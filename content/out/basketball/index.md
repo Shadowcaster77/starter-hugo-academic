@@ -20,6 +20,9 @@ links:
 # slides: example
 ---
 
-Play competitively. RCSSA Basketball Competition; Rutgers Intramural; Duke Intramural - OpenA
+Play competitively.
+- RCSSA Basketball Competition; 
+- Rutgers Intramural; 
+- Duke Intramural - OpenA
 
 
