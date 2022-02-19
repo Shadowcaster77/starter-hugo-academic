@@ -2,7 +2,7 @@
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
 summary: Pyqt VTK GUI design. OASIS, FLEXCONN, LST, TOADS reproduction. 
 tags:
-- ML/DL
+- machine learning
 date: "2021-05-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
