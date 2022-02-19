@@ -12,6 +12,7 @@ image:
   focal_point: Smart
 
 links:
+url_poster: "https://docs.google.com/presentation/d/1ZL-kJ8zSG11-SB56arI9WfT37TX5uw00TusL8tMbz54/edit?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
