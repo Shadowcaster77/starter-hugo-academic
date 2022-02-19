@@ -1,16 +1,18 @@
 ---
-title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
-summary: Develop new Multiple Sclerosis Lesion Segmentation (MulS) challenge. Reproduce methods: FLEXCONN, OASIS, LST, TOADS to compare to our results and use pyqt5, VTK to design GUI for new methods.
-
+title: Development of A Prototype Material Extrusion/ Laser Deposition System with In-Process Monitoring and Control
+summary: Development of an affordable and functional system to extrude various polymers into a filament for use in fused filament fabrication 3D printers.
 tags:
-- ML/DL
-date: "2021-05-27T00:00:00Z"
+- control
+date: "2019-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
   focal_point: Smart
+
+links:
+url_poster: "https://docs.google.com/presentation/d/1ZL-kJ8zSG11-SB56arI9WfT37TX5uw00TusL8tMbz54/edit?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
