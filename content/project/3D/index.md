@@ -2,7 +2,7 @@
 title: Development of A Prototype Material Extrusion/ Laser Deposition System with In-Process Monitoring and Control
 summary: Development of an affordable and functional system to extrude various polymers into a filament for use in fused filament fabrication 3D printers.
 tags:
-- Radio Frequency
+- control
 date: "2019-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
