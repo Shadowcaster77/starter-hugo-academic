@@ -1,6 +1,6 @@
 ---
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
-summary:
+summary: Use Pyqt5 and VTK to design GUI for our new segmentation method. Reproduce methods: FLEXCONN, OASIS, LST, TOADS to compare to our results from the new segmentation method. 
 
 tags:
 - ML/DL
