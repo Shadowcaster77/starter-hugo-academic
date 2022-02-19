@@ -2,6 +2,7 @@
 title: Front-end and back-end development for multiple sclerosis lesion segmentation (MulS) challenge
 summary: Develop new Multiple Sclerosis Lesion Segmentation (MulS) challenge. Reproduce methods: FLEXCONN, OASIS, LST, TOADS to compare to our results and use pyqt5, VTK to design GUI for new methods.
 
+tags:
 - ML/DL
 date: "2021-05-27T00:00:00Z"
 
