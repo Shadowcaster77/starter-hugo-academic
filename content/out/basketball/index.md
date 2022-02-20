@@ -20,7 +20,7 @@ links:
 # slides: example
 ---
 Workout
-- 4 a week
+- 4 per week
 
 Play 🏀 competitively.
 - RCSSA Basketball Competition; 
