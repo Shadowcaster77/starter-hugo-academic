@@ -1,5 +1,5 @@
 ---
-title: CBRS: Making Spectrum Sharing a Reality
+title:
 summary: 
 tags:
 - Radio Frequency
