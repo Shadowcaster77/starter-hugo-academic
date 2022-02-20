@@ -1,6 +1,6 @@
 ---
 title: Workout
-summary: f
+summary: 4 per Week
 date: "2022-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -18,6 +18,5 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-
 
 
