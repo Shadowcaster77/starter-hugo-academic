@@ -1,5 +1,5 @@
 ---
-title: Lego
+title: Lego 
 summary: Harry Potter Series Collection
 
 date: "2018-02-12T00:00:00Z"
