@@ -1,6 +1,6 @@
 ---
-title:
-summary: 
+title: CBRS - Make Spectrum Sharing a Reality
+summary: Spectrum Monitoring and Sharing in CBRS Band
 tags:
 - Radio Frequency
 date: "2022-02-20T00:00:00Z"
