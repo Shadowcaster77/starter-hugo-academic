@@ -29,18 +29,18 @@ content:
   - name: All
     tag: '*'
     
-  - name: ML/DL
-    tag: machine learning
+  - name: RF
+    tag: Radio Frequency
     
   - name: DSP
     tag: Digital Signal Processing
     
+  - name: ML/DL
+    tag: machine learning
+   
   - name: 3D Printing
     tag: control
-    
-  - name: RF
-    tag: Radio Frequency
-    
+
   - name: Other
     tag: Other
 
