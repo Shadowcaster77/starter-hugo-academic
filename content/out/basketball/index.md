@@ -1,6 +1,6 @@
 ---
-title: Basketball
-summary: HUGE FAN
+title: Basketball + Workout
+summary: HUGE 🏀 FAN
 
 date: "2022-02-12T00:00:00Z"
 
@@ -19,8 +19,10 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+Workout
+- 4 a week
 
-Play competitively.
+Play 🏀 competitively.
 - RCSSA Basketball Competition; 
 - Rutgers Intramural; 
 - Duke Intramural - OpenA
