@@ -1,5 +1,5 @@
 ---
-title: Ski
+title: 🏂🏻
 summary: Ski - Blue/Black, Learning SnowBoard
 
 date: "2021-08-27T00:00:00Z"
