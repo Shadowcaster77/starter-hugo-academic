@@ -31,7 +31,7 @@ education:
     year: 2021
   - course: BSc in Electrical and Computer Engineering
     institution: Rutgers University
-    year: 2022
+    year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
