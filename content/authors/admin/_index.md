@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhenzhou (Tom) Qi
+title: Zhenzhou (Tom) Qi [戚振周]
 # Is this the primary user of the site?
 superuser: true
 
