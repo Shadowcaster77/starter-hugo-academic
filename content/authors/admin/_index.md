@@ -58,6 +58,6 @@ email: "zhenzhou.qi@duke.edu"
 highlight_name: true
 ---
 
-   Tom is a first-year Ph.D. student in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include Digital signal processing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Embedded systems and Internet-of-Things (IoT). He works in the Duke Wireless Lab, which works on next-generation wireless networks and systems.
+   Tom (戚振周) is a first-year Ph.D. student in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include Digital signal processing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Embedded systems and Internet-of-Things (IoT). He works in the Duke Wireless Lab, which works on next-generation wireless networks and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
