@@ -23,15 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: Engineering Ambassador
-    company: School of Engineering, Rutgers University
-    location: Piscataway, NJ
-    date_start: '2018-09-01'
-    date_end: '2020-05-14'
-    description: |2-
-        * Provide campus tours, sit on student panels, participate in Engagement events
-        * Serve as a representative to share the mission and vision
-
+  - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
 
 design:
   columns: '2'
