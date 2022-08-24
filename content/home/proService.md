@@ -27,7 +27,8 @@ experience:
     company: IEEE ICPADS
     location: Durham, NC
     date_start: '2022-08-01'
-    date_end: ' '
+    date_end: '2022-08-01'
+    
 design:
   columns: '2'
 ---
