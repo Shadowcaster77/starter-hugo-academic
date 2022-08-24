@@ -1,7 +1,7 @@
 ---
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pro_experience
+widget: experience
 
 # This file represents a page section.
 headless: true
@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-Service:
+experience:
   - title: Engineering Ambassador
     company: School of Engineering, Rutgers University
     location: Piscataway, NJ
