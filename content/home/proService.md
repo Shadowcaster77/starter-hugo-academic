@@ -14,7 +14,7 @@ subtitle:
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
-    company: School of Engineering, Rutgers University
+    company: ICPADS
     location:  
     date_start: '2022'
     date_end: ' '
