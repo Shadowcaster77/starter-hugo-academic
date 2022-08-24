@@ -25,8 +25,8 @@ date_format: 2006
 experience:
   - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
     company: ICPADS
-    location:  
-    date_start: '2022'
+    location: Durham, NC
+    date_start: '2022-08-01'
     date_end: ' '
 design:
   columns: '2'
