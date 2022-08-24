@@ -25,9 +25,9 @@ date_format: Jan 2006
 experience:
   - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
     company: School of Engineering, Rutgers University
-    location: Piscataway, NJ
-    date_start: '2018-09-01'
-    date_end: '2020-05-14'
+    location:  
+    date_start: '2022'
+    date_end: ' '
 design:
   columns: '2'
 ---
