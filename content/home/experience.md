@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Teaching Assistant - ECE556
+    company: Duke University
+    location: Durham, NC
+    date_start: '2022-09-01'
+    date_end: '2022-12-23'
+    description: |2-
+        * Teaching Assistant for Wireless Networking and Mobile Computing
+ 
   - title: Research Assistant
     company: Duke University
     location: Durham, NC
@@ -32,7 +40,6 @@ experience:
         * Facilitating Open-Access Millimeter-wave and Massive MIMO Research in the COSMOS and ORBIT Testbeds
         * Spectrum Sensing & Management for CBRS
 
-        
   - title: Research Assistant
     company: Cornell University
     location: Ithaca, NY
