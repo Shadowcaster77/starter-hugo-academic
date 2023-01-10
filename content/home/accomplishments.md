@@ -25,6 +25,18 @@ date_format: Jan 2006
 
 item:
 - date_end: ""
+  date_start: "2023-01-20"
+  description: ""
+  organization: National Science Foundation
+  title: MWW-2023 Travel Grant
+
+- date_end: ""
+  date_start: "2022-09-01"
+  description: ""
+  organization: Duke University
+  title: ACM SIGMOBILE Student Community Grant
+  
+- date_end: ""
   date_start: "2021-09-01"
   description: ""
   organization: Duke University
