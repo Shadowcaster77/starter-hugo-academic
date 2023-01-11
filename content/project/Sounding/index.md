@@ -15,7 +15,7 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: tutorial
   url: https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/MassiveMIMO#no1
 
 # Slides (optional).
