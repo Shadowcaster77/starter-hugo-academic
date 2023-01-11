@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 links:
-url_poster: "https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/MassiveMIMO#no1"
+url_tutorial: "https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/MassiveMIMO#no1"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
