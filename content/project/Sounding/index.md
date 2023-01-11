@@ -19,7 +19,7 @@ links:
   url: https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/MassiveMIMO#no1
 - icon: github
   icon_pack: fab
-  name: code
+  name: Code
   url: https://github.com/renew-wireless/RENEWLab/tree/Pure-UHD-Multi-USRP-New-Sync/CC/Sounder
 
 # Slides (optional).
