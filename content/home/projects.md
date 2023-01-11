@@ -32,6 +32,9 @@ content:
   - name: RF
     tag: Radio Frequency
     
+  - name: Wireless System Design
+    tag: System Design
+    
   - name: DSP
     tag: Digital Signal Processing
     
