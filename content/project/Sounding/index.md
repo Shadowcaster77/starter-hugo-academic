@@ -3,7 +3,7 @@ title: Massive MIMO Channel Sounding
 summary: Development of an open-source software infrastructure to adapt USPR to RENEWLab Sounder framework for channel-sounding measurements and data transmission experiments for massive MIMO networks.
 
 tags:
-- control
+- System Design
 date: "2021-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
