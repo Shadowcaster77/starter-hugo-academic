@@ -1,5 +1,5 @@
 ---
-title: Basketball + Workout
+title: Basketball
 summary: HUGE 🏀 FAN
 
 date: "2022-02-12T00:00:00Z"
@@ -19,12 +19,10 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
-Workout
-- 4 per week
-
 Play 🏀 competitively.
+- Triangle League - Triangle League 2023 Spring 🏆
+- NECBL - Mountain South
+- School Intramural - OpenA/OpenB
 - RCSSA Basketball Competition; 
-- Rutgers Intramural; 
-- Duke Intramural - OpenA
 
 
