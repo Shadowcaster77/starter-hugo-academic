@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: '< staticref "uploads/WiNTECH2023_PAAM.pdf" "newtab" >'
 url_code: 'https://github.com/Agora-wireless/Agora/tree/uhd-dev-wip'
 url_dataset: ''
 url_poster: ''
