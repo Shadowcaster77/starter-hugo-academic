@@ -36,19 +36,7 @@ publication_types: ["1"]
 publication: In *Proceedings of 2023 Optical Fiber Communications Conference and Exhibition*
 publication_short: In *IEEE OFC'23*
 
-abstract: Recent advances in optical fiber sensing has enabled telecom network operators to monitor their fiber infrastructure while creating new revenue streams in data center interconnect (DCI), public safety, and smart city applications. As using dedicated fibers for sensing may be undesirable for operators whose fiber networks are close to fully utilized for dense wavelength-division multiplexing (DWDM) transmission, it is also possible that common optical functions,
-such as optical switching, can be shared between sensing and communication equipment for cost reduction. To achieve
-that goal, it is crucial to study the coexistence of sensing and data transmission on the same DWDM network regarding
-the impact to quality of transmission (QoT) [3], such as pre/post-FEC bit error rate (BER). Furthermore, an integrated
-platform with joint sensing and communication capabilities allows the sensing system to provide advance warnings to
-the network management system and to facilitate optical switching to the backup route in the event of fiber cuts.
-In this paper, we report field trial results investigating the co-propagation of distributed acoustic sensing (DAS),
-coherent 400GbE, and analog radio-over-fiber (ARoF) signals using field-deployed dark fibers in a dense metro area
-using the city-scale PAWR COSMOS testbed [4] deployed in Manhattan. The ARoF provides direct transmission of
-analog wideband radio signals over the same fiber route to support centralized RF resources for 5G/6G fronthaul. We
-show that the constant-amplitude DAS operating at optimal power levels has minimal impact on the coherent 400GbE
-QoT in real-time. We also demonstrate a use case of DAS-informed preemptive optical switching of a 400GbE signal
-to a backup route as the DAS identified abnormal events indicating possible outage on the original fiber link.
+abstract: Recent advances in optical fiber sensing has enabled telecom network operators to monitor their fiber infrastructure while creating new revenue streams in data center interconnect (DCI), public safety, and smart city applications. As using dedicated fibers for sensing may be undesirable for operators whose fiber networks are close to fully utilized for dense wavelength-division multiplexing (DWDM) transmission, it is also possible that common optical functions, such as optical switching, can be shared between sensing and communication equipment for cost reduction. To achieve that goal, it is crucial to study the coexistence of sensing and data transmission on the same DWDM network regarding the impact to quality of transmission (QoT), such as pre/post-FEC bit error rate (BER). Furthermore, an integrated platform with joint sensing and communication capabilities allows the sensing system to provide advance warnings to the network management system and to facilitate optical switching to the backup route in the event of fiber cuts. In this paper, we report field trial results investigating the co-propagation of distributed acoustic sensing (DAS), coherent 400GbE, and analog radio-over-fiber (ARoF) signals using field-deployed dark fibers in a dense metro area using the city-scale PAWR COSMOS testbed [4] deployed in Manhattan. The ARoF provides direct transmission of analog wideband radio signals over the same fiber route to support centralized RF resources for 5G/6G fronthaul. We show that the constant-amplitude DAS operating at optimal power levels has minimal impact on the coherent 400GbE QoT in real-time. We also demonstrate a use case of DAS-informed preemptive optical switching of a 400GbE signal to a backup route as the DAS identified abnormal events indicating possible outage on the original fiber link.
 
 tags: []
 
