@@ -16,7 +16,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Tutorial
-  url: [https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/MassiveMIMO#no1](https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamAgora)
+  url: https://wiki.cosmos-lab.org/wiki/Tutorials/Wireless/mmwavePaamAgora
 - icon: github
   icon_pack: fab
   name: Code
