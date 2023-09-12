@@ -6,15 +6,18 @@ title: "Programmable Millimeter-Wave MIMO Radios with Real-Time Baseband Process
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - Zhenzhou Qi
+- Zhihui Gao
+- Chung-Hsuan Tung
+- Tingjun Chen
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
 
-date: "2020-11-16T00:00:00Z"
+date: "2023-10-06T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-11-16T00:00:00Z"
+publishDate: "2023-10-06T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -23,10 +26,10 @@ publishDate: "2020-11-16T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Proceedings of the 18th Conference on Embedded Networked Sensor Systems*
-publication_short: In *ACM SenSys’20*
+publication: In *In The 17th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization 2023 (WiNTECH’23)*
+publication_short: In *ACM WiNTECH’23*
 
-abstract: The past 40 years have seen an explosion of Radio Frequency (RF) transmitters, which motivates understanding their impacts on the natural world. The European honeybee, Apis Mellifera, has been shown to sense the Earth's magnetic field. Human Radio Frequency (RF) transmitters alter this field. For example, recent work demonstrated that human-created RF interferes with the common robin's ability to orient themselves. This work proposes an experimental design to determine if honeybees can sense RF transmissions in frequencies from 1 MHz (AM radio) to 6 GHz (WiFi). We deployed a custom-designed RF bee feeder near bee hives to test honeybees' RF sensing ability.
+abstract: Baseband processing is one of the most time-consuming and computationally expensive tasks in radio access networks (RANs), which is typically realized in dedicated hardware. The concept of virtualizing the RAN functions by moving their computation to edge data centers can significantly reduce the deployment cost and enable more flexible use of the network resources. Recent studies have focused on software-based baseband processing for large-scale sub-6 GHz MIMO systems, while 5G also embraces the millimeterwave (mmWave) frequency bands to achieve further improved data rates leveraging the widely available spectrum. Therefore, it is important to build a platform for the experimental investigation of software-based baseband processing for mmWave MIMO systems. In this paper, we implement programmable mmWave MIMO radios equipped with real-time baseband processing capability, leveraging the open-access PAWR COSMOS testbed. We first develop Agora-UHD, which enables UHD-based software-defined radios (SDRs) to interface with Agora, an open-source software realization of real-time massive MIMO baseband processing. Next, we integrate Agora-UHD with the USRP SDRs and IBM 28 GHz phased array antenna module (PAAM) subsystem boards deployed in the PAWR COSMOS testbed. We demonstrate a 2×2 28 GHz polarization MIMO link with a bandwidth of 122.88 MHz, and show that it can meet the real-time processing deadline of 0.375 ms (3 transmission time intervals for numerology 3 in 5G NR FR2) using only 8 CPU cores. The source code of Agora-UHD and its integration with the programmable 28 GHz radios in the COSMOS testbed with example tutorials are made publicly available.
 
 tags: []
 
