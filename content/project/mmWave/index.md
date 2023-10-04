@@ -1,5 +1,5 @@
 ---
-title: 5G FR2 mmWave Real-Time Baseband Processing
+title: Programmable Millimeter-Wave MIMO Radios with Real-Time Baseband Processing
 summary: Implement programmable mmWave MIMO radios equipped with real-time baseband processing capability, leveraging the open-access PAWR COSMOS testbed.
 
 tags:
@@ -21,6 +21,14 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/Agora-wireless/Agora/tree/uhd-dev-wip
+- icon: github
+  icon_pack: fab
+  name: Video
+  url: https://youtu.be/qNKB_DkpE6g
+- icon: github
+  icon_pack: fab
+  name: Slides
+  url: https://drive.google.com/file/d/11aowbdWEyRYkvEMkHZwrqHAb61JL2pVz/view?usp=sharing
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
