@@ -24,7 +24,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Video
-  url: https://youtu.be/qNKB_DkpE6g
+  url: https://youtu.be/4bvANiQq8j4
 - icon: github
   icon_pack: fab
   name: Slides
