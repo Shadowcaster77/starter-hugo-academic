@@ -20,9 +20,9 @@ links:
 # slides: example
 ---
 Play 🏀 competitively.
-- Triangle League - Triangle League 2023 Spring 🏆
-- NECBL - Mountain South
-- School Intramural - OpenA/OpenB
+- Triangle League - Fall 2023 🏆, Spring 2023 🏆;
+- NECBL - Mountain South - Fall 2022 3rd;
+- School Intramural - OpenA/OpenB;
 - RCSSA Basketball Competition; 
 
 
