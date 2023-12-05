@@ -48,7 +48,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '[https://dl.acm.org/doi/pdf/10.1145/3274783.3275197](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10117373)'
+url_pdf: '< staticref "uploads/OFC2023_FieldTrial_COSMOS.pdf" >'
 url_code: ''
 url_dataset: ''
 url_poster: ''
