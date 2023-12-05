@@ -1,6 +1,6 @@
 ---
-title: 🧙‍♂️
-summary: Lego Harry Potter Series Collection
+title: 🐱 Lover
+summary: Say Hi to my baby girl Juju
 
 date: "2018-02-12T00:00:00Z"
 
