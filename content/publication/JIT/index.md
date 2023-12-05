@@ -1,5 +1,5 @@
 ---
-title: "Programmable Millimeter-Wave MIMO Radios with Real-Time Baseband Processing"
+title: "Field Trial of Coexistence and Simultaneous Switching of Real-Time Fiber Sensing and Coherent 400 GbE in a Dense Urban Environment"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
