@@ -41,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '< staticref "uploads/WiNTECH2023_PAAM.pdf" >'
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3615453.3616521'
 url_code: 'https://github.com/Agora-wireless/Agora/tree/uhd-dev-wip'
 url_dataset: ''
 url_poster: ''
@@ -62,7 +62,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- content/project/Bee/index.md
 
 
 # Slides (optional).
