@@ -21,7 +21,7 @@ links:
 ---
 Play 🏀 competitively.
 - Triangle League - Fall 2023 🏆, Spring 2023 🏆;
-- NECBL - Mountain South - Fall 2022 3rd;
+- NECBL - Mountain South - Fall 2023 🏆, Fall 2022 3rd;
 - School Intramural - OpenA/OpenB;
 - RCSSA Basketball Competition; 
 
