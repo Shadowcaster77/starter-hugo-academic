@@ -1,14 +1,15 @@
 ---
-title: "Programmable Millimeter-Wave MIMO Radios with Real-Time Baseband Processing"
+title: "MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- David Hunt
+- Kristen Angell
 - admin
-- Zhihui Gao
-- Chung-Hsuan Tung
 - Tingjun Chen
+- Miroslav Pajic
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
@@ -26,10 +27,10 @@ publishDate: "2023-09-06T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *In The 17th ACM Workshop on Wireless Network Testbeds, Experimental evaluation & Characterization 2023 (WiNTECH’23)*
-publication_short: In *ACM WiNTECH’23*
+publication: In *Network and Distributed Systems Security (NDSS) Symposium 2024*
+publication_short: In *NDSS'24 (to appear)*
 
-abstract: Baseband processing is one of the most time-consuming and computationally expensive tasks in radio access networks (RANs), which is typically realized in dedicated hardware. The concept of virtualizing the RAN functions by moving their computation to edge data centers can significantly reduce the deployment cost and enable more flexible use of the network resources. Recent studies have focused on software-based baseband processing for large-scale sub-6 GHz MIMO systems, while 5G also embraces the millimeterwave (mmWave) frequency bands to achieve further improved data rates leveraging the widely available spectrum. Therefore, it is important to build a platform for the experimental investigation of software-based baseband processing for mmWave MIMO systems. In this paper, we implement programmable mmWave MIMO radios equipped with real-time baseband processing capability, leveraging the open-access PAWR COSMOS testbed. We first develop Agora-UHD, which enables UHD-based software-defined radios (SDRs) to interface with Agora, an open-source software realization of real-time massive MIMO baseband processing. Next, we integrate Agora-UHD with the USRP SDRs and IBM 28 GHz phased array antenna module (PAAM) subsystem boards deployed in the PAWR COSMOS testbed. We demonstrate a 2×2 28 GHz polarization MIMO link with a bandwidth of 122.88 MHz, and show that it can meet the real-time processing deadline of 0.375 ms (3 transmission time intervals for numerology 3 in 5G NR FR2) using only 8 CPU cores. The source code of Agora-UHD and its integration with the programmable 28 GHz radios in the COSMOS testbed with example tutorials are made publicly available.
+abstract: Frequency modulated continuous wave (FMCW) millimeter-wave (mmWave) radars play a critical role in many of the advanced driver assistance systems (ADAS) featured on today’s vehicles. While previous works have demonstrated (only) successful false-positive spoofing attacks against these sensors, all but one assumed that an attacker had the runtime knowledge of the victim radar’s configuration. In this work, we introduce MadRadar, a general black-box radar attack framework for automotive mmWave FMCW radars capable of estimating the victim radar’s configuration in real-time, and then executing an attack based on the estimates. We evaluate the impact of such attacks maliciously manipulating a victim radar’s point cloud, and show the novel ability to effectively ‘add’ (i.e., false positive attacks), ‘remove’ (i.e., false negative attacks), or ‘move’ (i.e., translation attacks) object detections from a victim vehicle’s scene. Finally, we experimentally demonstrate the feasibility of our attacks on real-world case studies performed using a realtime physical prototype on a software-defined radio platform.
 
 tags: []
 
@@ -41,8 +42,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '< staticref "uploads/WiNTECH2023_PAAM.pdf" >'
-url_code: 'https://github.com/Agora-wireless/Agora/tree/uhd-dev-wip'
+url_pdf: 'https://arxiv.org/pdf/2311.16024.pdf'
+url_code: 
 url_dataset: ''
 url_poster: ''
 url_project: ''
@@ -62,8 +63,6 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- content/project/Bee/index.md
-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
