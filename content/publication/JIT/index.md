@@ -47,7 +47,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '< staticref "Field_Trial_of_Coexistence_and_Simultaneous_Switching_of_Real-Time_Fiber_Sensing_and_Coherent_400nbspGbE_in_a_Dense_Urban_Environment.pdf" >'
+url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10264088'
 url_code: ''
 url_dataset: ''
 url_poster: ''
