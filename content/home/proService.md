@@ -27,7 +27,7 @@ experience:
     company: MEAAC
     location: Ordos, CN
     date_start: '2024-01-02'
-    date_end: '2024-06-17'
+    date_end: '2024-01-03'
 
   - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
     company: IEEE ICPADS
