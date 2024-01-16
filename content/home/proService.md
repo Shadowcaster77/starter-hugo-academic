@@ -23,6 +23,12 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: International Conference on Mechanics, Electronics, Automation and Automatic Control (MEAAC'24, Reviewer)
+    company: MEAAC
+    location: Ordos, CN
+    date_start: '2024-01-02'
+    date_end: '2024-06-17'
+
   - title: IEEE International Conference on Parallel and Distributed Systems (ICPADS, TPC member for Wireless Sensing & Mobile Computing Track 2022)
     company: IEEE ICPADS
     location: Durham, NC
