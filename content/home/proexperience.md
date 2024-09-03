@@ -23,6 +23,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Wireless R&D RF SYS Internship
+    company: Qualcomm 
+    location: San Diego, CA
+    date_start: '2024-06-03'
+    date_end: '2024-08-23'
+    description: |2-
+        * Work on RF systems architectural design, radio transceiver specifications analysis, and SW/FW algorithm design in Qualcomm radio transceiver systems team
+        * Develop Deep Learning based gesture recognition for mmWave radars to interact with phones
+
   - title: Engineering Ambassador
     company: School of Engineering, Rutgers University
     location: Piscataway, NJ
