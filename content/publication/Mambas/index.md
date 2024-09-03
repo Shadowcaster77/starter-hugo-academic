@@ -1,5 +1,5 @@
 ---
-title: "MadRadar: A Black-Box Physical Layer Attack Framework on mmWave Automotive FMCW Radars"
+title: "Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -14,11 +14,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 
-date: "2024-02-01T00:00:00Z"
+date: "2024-11-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-02-01T00:00:00Z"
+publishDate: "2024-11-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,8 +27,8 @@ publishDate: "2024-02-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Network and Distributed Systems Security (NDSS) Symposium 2024*
-publication_short: In *NDSS'24*
+publication: In *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking(MobiCom)*
+publication_short: In *MobiCom'24*
 
 abstract: Frequency modulated continuous wave (FMCW) millimeter-wave (mmWave) radars play a critical role in many of the advanced driver assistance systems (ADAS) featured on today’s vehicles. While previous works have demonstrated (only) successful false-positive spoofing attacks against these sensors, all but one assumed that an attacker had the runtime knowledge of the victim radar’s configuration. In this work, we introduce MadRadar, a general black-box radar attack framework for automotive mmWave FMCW radars capable of estimating the victim radar’s configuration in real-time, and then executing an attack based on the estimates. We evaluate the impact of such attacks maliciously manipulating a victim radar’s point cloud, and show the novel ability to effectively ‘add’ (i.e., false positive attacks), ‘remove’ (i.e., false negative attacks), or ‘move’ (i.e., translation attacks) object detections from a victim vehicle’s scene. Finally, we experimentally demonstrate the feasibility of our attacks on real-world case studies performed using a realtime physical prototype on a software-defined radio platform.
 
@@ -42,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2311.16024.pdf'
+url_pdf: ''
 url_code: 
 url_dataset: ''
 url_poster: ''
