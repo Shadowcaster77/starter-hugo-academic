@@ -1,13 +1,15 @@
 ---
-title: "Mambas: Maneuvering Analog Multi-User Beamforming using an Array of Subarrays in mmWave Networks"
+title: "Savannah: Efficient mmWave Baseband Processing with Minimal and Heterogeneous Resources"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Zhihui Gao
-- admin
+- admin*
+- Chung-Hsuan Tung*
+- Anuj Kalia
 - Tingjun Chen
+- "* Equal contribution"
 # Author notes (optional)
 # author_notes:
 # - "Equal contribution"
