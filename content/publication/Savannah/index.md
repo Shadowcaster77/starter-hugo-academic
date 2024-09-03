@@ -5,7 +5,7 @@ title: "Savannah: Efficient mmWave Baseband Processing with Minimal and Heteroge
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- admin"*"
+- admin(*)
 - Chung-Hsuan Tung
 - Anuj Kalia
 - Tingjun Chen
