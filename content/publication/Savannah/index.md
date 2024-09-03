@@ -6,7 +6,7 @@ title: "Savannah: Efficient mmWave Baseband Processing with Minimal and Heteroge
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - *admin
-- *Chung-Hsuan Tung *
+- *Chung-Hsuan Tung
 - Anuj Kalia
 - Tingjun Chen
 - "* Equal contribution"
