@@ -12,11 +12,11 @@ authors:
 # author_notes:
 # - "Equal contribution"
 
-date: "2024-11-01T00:00:00Z"
+date: "2024-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-01T00:00:00Z"
+publishDate: "2024-09-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -26,9 +26,9 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking(MobiCom)*
-publication_short: In *MobiCom'24*
+publication_short: In *MobiCom'24 (To appear)*
 
-abstract: Frequency modulated continuous wave (FMCW) millimeter-wave (mmWave) radars play a critical role in many of the advanced driver assistance systems (ADAS) featured on today’s vehicles. While previous works have demonstrated (only) successful false-positive spoofing attacks against these sensors, all but one assumed that an attacker had the runtime knowledge of the victim radar’s configuration. In this work, we introduce MadRadar, a general black-box radar attack framework for automotive mmWave FMCW radars capable of estimating the victim radar’s configuration in real-time, and then executing an attack based on the estimates. We evaluate the impact of such attacks maliciously manipulating a victim radar’s point cloud, and show the novel ability to effectively ‘add’ (i.e., false positive attacks), ‘remove’ (i.e., false negative attacks), or ‘move’ (i.e., translation attacks) object detections from a victim vehicle’s scene. Finally, we experimentally demonstrate the feasibility of our attacks on real-world case studies performed using a realtime physical prototype on a software-defined radio platform.
+abstract: Beyond-5G and 6G wireless networks exploit the millimeter-wave (mmWave) frequency bands to achieve significantly improved data rates, and existing mmWave systems rely on analog single-user beamforming (SUBF) or hybrid multi-user beamforming (MUBF). In this work, we focus on improving the performance of multi-user communication in mmWave networks by exploring analog MUBF using an array of subarrays (ASA) with reduced system overhead and hardware complexity as it eliminates digital beamforming and the need for estimating the channel state information (CSI). We present Mambas, a novel system that maneuvers analog MUBF using an ASA to support simultaneous communication with multiple users located in close proximity, e.g., within the half-power beamwidth of the ASA. In essence, Mambas effectively decouples the user selection, subarray allocation, and beamforming optimization based on a comprehensive understanding of the multi-user support determined by the ASA. We evaluate Mambas using a 28 GHz software-defined radio testbed and show that, compared to existing methods, Mambas can effectively support users that are 2× more closely spaced while achieving an improved sum rate of up to 2×, using only two subarrays. Large-scale ray tracing-based simulations also show that Mambas can achieve a sum rate gain of 1.92--3.86× and is able to maintain consistent performance with significantly increased user density.
 
 tags: []
 
