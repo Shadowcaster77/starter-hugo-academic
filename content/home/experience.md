@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Teaching Assistant - ECE655L
+    company: Duke University
+    location: Durham, NC
+    date_start: '2024-09-01'
+    date_end: '2024-12-23'
+    description: |2-
+        * Teaching Assistant for Full Stack IoT Systems
+
   - title: Teaching Assistant - ECE556
     company: Duke University
     location: Durham, NC
