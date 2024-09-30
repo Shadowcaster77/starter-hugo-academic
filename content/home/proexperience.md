@@ -29,8 +29,12 @@ experience:
     date_start: '2024-06-03'
     date_end: '2024-08-23'
     description: |2-
-        * Work on RF systems architectural design, radio transceiver specifications analysis, and SW/FW algorithm design in Qualcomm radio transceiver systems team
-        * Develop Deep Learning based gesture recognition for mmWave radars to interact with phones
+        * RF SYS Team
+        * Performed detailed profiling for software and hardware mmWave Radar processing pipeline. Optimized the software DSP stage by 500 times and the FW processing by 2 times.
+        * Built real‑time visualization for Range Doppler Information for mmWave Radars
+        * Built dataset collection pipeline and constructed gesture dataset for mmWave Radars
+        * Built static and real‑time Deep‑Learning based gesture recognition model for mmWave radars
+        * Integrate the real‑time Deep‑Learning gesture recognition model to volume control applications for users to interact with the phone.
 
   - title: Engineering Ambassador
     company: School of Engineering, Rutgers University
