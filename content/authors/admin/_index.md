@@ -16,9 +16,10 @@ bio: My research interests include Next-G Wireless Communication Systems and IoT
 
 # Interests to show in About widget
 interests:
-- Digital signal processing
-- Wireless networks 
-- Embedded systems and IoT
+- vRAN
+- Heterogeneous Computing 
+- Wireless Network
+- Computer Network
 
 # Education to show in About widget
 education:
@@ -58,6 +59,6 @@ email: "zhenzhou.qi@duke.edu"
 highlight_name: true
 ---
 
-   Tom (戚振周) is a forth-year Ph.D. candidate in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include Digital signal processing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Embedded systems and Internet-of-Things (IoT). He works in the Duke Wireless Lab, which works on next-generation wireless networks and systems.
+   Tom (戚振周) is a forth-year Ph.D. candidate in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He works in the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
