@@ -25,6 +25,18 @@ date_format: Jan 2006
 
 item:
 - date_end: ""
+  date_start: "2024-10-20"
+  description: ""
+  organization: Duke University
+  title: Duke Graduate School Conference Travel Award
+
+- date_end: ""
+  date_start: "2024-10-20"
+  description: ""
+  organization: Duke University
+  title: Duke ECE Conference Travel Fellowship
+
+- date_end: ""
   date_start: "2023-01-20"
   description: ""
   organization: National Science Foundation
