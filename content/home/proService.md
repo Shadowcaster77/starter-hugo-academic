@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: IEEE Transactions on Information Forensics & Security (Reviewer)
+    company: IEEE Signal Processing Society
+    date_start: '2024-11-22'
+    date_end: '2024-11-24'
+
   - title: International Conference on Mechanics, Electronics, Automation and Automatic Control (MEAAC'24, Reviewer)
     company: MEAAC
     location: Ordos, CN
