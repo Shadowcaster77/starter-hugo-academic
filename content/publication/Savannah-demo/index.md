@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking(MobiCom) Demo*
-publication_short: In *MobiCom'24 Demo (To appear)*
+publication_short: In *MobiCom'24 Demo*
 
 abstract: 5G new radio (NR) frequency range 2 (FR2) in the millimeter-wave (mmWave) band has a much shorter baseband processing deadline compared to that in the sub-7 GHz FR1 band. This tight deadline requires an efficient real-time system for baseband processing using minimal computational resources. We demonstrate Savannah, a software framework for efficient mmWave baseband processing using minimal and heterogeneous computing resources, including CPU and eASIC. Savannah vectorizes matrix operations and memory access patterns in multi-input multi-output (MIMO) arithmetic, offloads low-density parity-check (LDPC) coding to an eASIC, and enables single-core operation. In this demo, we show that Savannah, using a single CPU core and the eASIC, can support a 2×2 MIMO link with 100 MHz bandwidth under full uplink traffic load, yielding a data rate of up to 487 Mbps. 
 
