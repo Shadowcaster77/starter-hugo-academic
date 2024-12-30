@@ -28,7 +28,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Proceedings of the 30th Annual International Conference on Mobile Computing and Networking(MobiCom)*
-publication_short: In *MobiCom'24 (To appear)*
+publication_short: In *MobiCom'24*
 
 abstract: 5G new radio (NR) employs frequency range 2 (FR2) to support higher data rates leveraging the widely available spectrum in the millimeter-wave (mmWave) bands. Compared to systems operating in sub-7 GHz FR1 bands, FR2 employs much shorter slot duration and therefore, poses significant challenges for softwarized baseband processing, a key enabler for virtualized radio access networks (vRANs). Existing systems supporting software baseband processing typically focus on enabling (massive) multiple-input and multiple output (MIMO) using multi-core edge server(s). In the context of FR2, these solutions may fail to meet the more stringent processing deadline or require more intensive computational resources. In this paper, we present Savannah, a framework for efficient mmWave baseband processing using minimal and heterogeneous computing resources, including CPU and eASIC. To address the challenges associated with baseband processing in FR2, Savannah applies techniques for vectorizing matrix operations and memory access patterns, supporting heterogeneous computation via offloading LDPC decoding to an eASIC, and enabling single-core operation. Through extensive experiments, we show that Savannah using a single CPU core and the ACC100 accelerator can support a 2×2 MIMO link with 100 MHz bandwidth under full uplink traffic load, yielding a data rate of up to 487 Mbps.
 
