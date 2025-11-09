@@ -5,14 +5,14 @@ title: Zhenzhou (Tom) Qi
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Student at Duke University
+role: Ph.D. Candidiate at Duke University
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Duke University
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Next-G Wireless Communication Systems and IoT.
+bio: My research interests include vRAN, Heterogeneous Computing and Computer Networks.
 
 # Interests to show in About widget
 interests:
@@ -59,6 +59,6 @@ email: "zhenzhou.qi@duke.edu"
 highlight_name: true
 ---
 
-   Tom (戚振周) is a forth-year Ph.D. candidate in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He works in the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
+   Tom (戚振周) is a fifth-year Ph.D. candidate in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He works in the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
