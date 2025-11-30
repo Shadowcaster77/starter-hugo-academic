@@ -26,8 +26,8 @@ publishDate: "2025-09-02T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: (*Under Submission*)
-publication_short: arXiv:2509.04625
+publication: In *Proceedings of the 32th Annual International Conference on Mobile Computing and Networking(MobiCom)*
+publication_short: In *MobiCom'26*
 
 abstract: The rapid adoption of 5G New Radio (NR), particularly in the millimeter-wave (mmWave) spectrum, imposes stringent demands on the flexibility, scalability, and efficiency of baseband processing. While virtualized Radio Access Networks (vRANs) enable dynamic spectrum sharing across cells, compute resource allocation for baseband processing, especially in multi-cell deployments with heterogeneous workloads, remains underexplored. In this paper, we present NEXUS, the first system to realize real-time, virtualized multi-cell mmWave baseband processing on a single server with heterogeneous compute resources. NEXUS integrates software-based digital signal processing pipelines with hardware-accelerated LDPC decoding, and introduces a novel framework for sharing Intel's ACC100 eASIC across multiple CPU cores via virtual functions (VFs). For single-cell operation, NEXUS employs a random forest (RAF)-based model that predicts the most energy-efficient resource allocation for the given cell configuration with microsecond-level inference latency and high accuracy. For multi-cell scenarios, NEXUS introduces a power-aware scheduler that incorporates a lightweight contention model to adjust resource allocation strategies under concurrent execution. Through extensive evaluation across various Frequency Range 2 (FR2) cell configurations, we show that NEXUS supports up to 16 concurrent cells under full load, achieving 5.37Gbps aggregate throughput, while reducing the multi-cell scheduling search space by orders of magnitude. These results demonstrate that virtualized, resource-aware baseband processing is both practical and efficient for next-generation vRAN systems.
 
