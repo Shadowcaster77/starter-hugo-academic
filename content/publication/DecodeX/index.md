@@ -29,8 +29,8 @@ publishDate: "2025-11-02T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: (*Under Submission*)
-publication_short: arXiv:2511.02952
+publication: (*The International Workshop on Mobile Computing Systems and Applications*)
+publication_short: HotMobile'26
 
 abstract: Emerging virtualized radio access networks (vRANs) demand flexible and efficient baseband processing across heterogeneous compute substrates. In this paper, we present DecodeX, a unified benchmarking framework for evaluating low-density parity-check (LDPC) decoding acceleration across different hardware platforms. DecodeX integrates a comprehensive suite of LDPC decoder implementations, including kernels, APIs, and test vectors for CPUs (FlexRAN), GPUs (Aerial and Sionna-RK), and ASIC (ACC100), and can be readily extended to additional architectures and configurations. Using DecodeX, we systematically characterize how different platforms orchestrate computation-from threading and memory management to data movement and accelerator offload-and quantify the resulting decoding latency under varying Physical layer parameters. Our observations reveal distinct trade-offs in parallel efficiency and offload overhead, showing that accelerator gains strongly depend on data-movement and workload granularity. Building on these insights, we discuss how cross-platform benchmarking can inform adaptive scheduling and co-design for future heterogeneous vRANs, enabling scalable and energy-efficient baseband processing for NextG wireless systems.
 
