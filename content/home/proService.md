@@ -31,7 +31,7 @@ experience:
   - title: The First Workshop on Digital Twins over NextG Wireless Networks (Reviewer)
     company: IEEE INFOCOM DTWIN'25
     date_start: '2025-05-19'
-    date_end: '2025-05-19'
+    date_end: '2025-05-22'
 
   - title: IEEE Transactions on Information Forensics & Security (Reviewer)
     company: IEEE Signal Processing Society
