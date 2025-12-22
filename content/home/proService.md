@@ -25,8 +25,8 @@ date_format: Jan 2006
 experience:
   - title: The 3rd International Academic Conference on Optics and Photonics (Reviewer)
     company: IACOP
-    date_start: '2025-03-22'
-    date_end: '2025-03-24'
+    date_start: '2025-10-31'
+    date_end: '2025-11-02'
 
   - title: IEEE Transactions on Information Forensics & Security (Reviewer)
     company: IEEE Signal Processing Society
