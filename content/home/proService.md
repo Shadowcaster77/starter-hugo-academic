@@ -24,9 +24,14 @@ date_format: Jan 2006
 
 experience:
   - title: The 3rd International Academic Conference on Optics and Photonics (Reviewer)
-    company: IACOP
+    company: IACOP'25
     date_start: '2025-10-31'
     date_end: '2025-11-02'
+
+  - title: The First Workshop on Digital Twins over NextG Wireless Networks (Reviewer)
+    company: IEEE INFOCOM DTWIN'25
+    date_start: '2025-05-19'
+    date_end: '2025-05-19'
 
   - title: IEEE Transactions on Information Forensics & Security (Reviewer)
     company: IEEE Signal Processing Society
