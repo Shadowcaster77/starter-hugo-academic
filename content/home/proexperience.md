@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: Research Internship (Systems Design & Architecture)
+    company: Samsung Research America (SRA) 
+    location: Plano, TX
+    date_start: '2026-01-20'
+    date_end: '2026-05-08'
+    description: |2-
+        * Platform Innovation
+
   - title: Wireless R&D RF SYS Internship
     company: Qualcomm 
     location: San Diego, CA

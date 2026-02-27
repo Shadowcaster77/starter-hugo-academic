@@ -25,6 +25,12 @@ date_format: Jan 2006
 
 item:
 - date_end: ""
+  date_start: "2026-02-25"
+  description: ""
+  organization: ACM SigMobile, ACM HotMobile
+  title: HotMobile Travel Grant
+
+- date_end: ""
   date_start: "2024-10-20"
   description: ""
   organization: Duke University
