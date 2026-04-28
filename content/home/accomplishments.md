@@ -25,6 +25,12 @@ date_format: Jan 2006
 
 item:
 - date_end: ""
+  date_start: "2026-05-01"
+  description: ""
+  organization: ACM MobiSys
+  title: ACM MobiSys Rising Star
+
+- date_end: ""
   date_start: "2026-02-25"
   description: ""
   organization: ACM SigMobile, ACM HotMobile
