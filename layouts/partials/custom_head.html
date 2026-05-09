@@ -1,48 +1,53 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
   function collapseSection(sectionId, selectors, threshold) {
-    // Wowchemy section IDs match the filename; try both original and lowercase
-    var section = document.getElementById(sectionId) ||
-                  document.getElementById(sectionId.toLowerCase());
-    if (!section) return;
+    try {
+      var section = document.getElementById(sectionId) ||
+                    document.getElementById(sectionId.toLowerCase());
+      if (!section) return;
 
-    var items = [];
-    for (var i = 0; i < selectors.length; i++) {
-      var found = Array.from(section.querySelectorAll(selectors[i]));
-      if (found.length > threshold) { items = found; break; }
+      // Pick the first selector that finds any matching elements
+      var items = [];
+      for (var i = 0; i < selectors.length; i++) {
+        var found = Array.from(section.querySelectorAll(selectors[i]));
+        if (found.length > 0) { items = found; break; }
+      }
+      if (items.length <= threshold) return;
+
+      var hiddenItems = items.slice(threshold);
+      hiddenItems.forEach(function (el) { el.style.display = 'none'; });
+
+      var remaining = items.length - threshold;
+      var btn = document.createElement('button');
+      btn.textContent = 'Show ' + remaining + ' more ▾';
+      btn.className = 'btn btn-outline-primary btn-sm mt-3';
+
+      var expanded = false;
+      btn.addEventListener('click', function () {
+        expanded = !expanded;
+        hiddenItems.forEach(function (el) { el.style.display = expanded ? '' : 'none'; });
+        btn.textContent = expanded
+          ? 'Show less ▴'
+          : 'Show ' + remaining + ' more ▾';
+      });
+
+      var parent = items[0].closest('ul') || items[0].closest('.row') || items[0].parentNode;
+      parent.insertAdjacentElement('afterend', btn);
+    } catch (e) {
+      console.warn('collapseSection(' + sectionId + '):', e);
     }
-    if (items.length <= threshold) return;
-
-    var hiddenItems = items.slice(threshold);
-    hiddenItems.forEach(function (el) { el.style.display = 'none'; });
-
-    var remaining = items.length - threshold;
-    var btn = document.createElement('button');
-    btn.textContent = 'Show ' + remaining + ' more ▾';
-    btn.className = 'btn btn-outline-primary btn-sm mt-3';
-
-    var expanded = false;
-    btn.addEventListener('click', function () {
-      expanded = !expanded;
-      hiddenItems.forEach(function (el) { el.style.display = expanded ? '' : 'none'; });
-      btn.textContent = expanded
-        ? 'Show less ▴'
-        : 'Show ' + remaining + ' more ▾';
-    });
-
-    // Insert button after the immediate parent container of the items
-    items[0].parentNode.insertAdjacentElement('afterend', btn);
   }
 
-  // Honors & Awards — rendered as <li> in a timeline list
+  // Honors & Awards
   collapseSection('accomplishments', ['li'], 3);
 
-  // Experience widgets — each entry is a div.col-12.d-flex in the timeline row
-  collapseSection('experience',    ['.col-12.d-flex', 'li'], 3);
-  collapseSection('proexperience', ['.col-12.d-flex', 'li'], 3);
-  collapseSection('proService',    ['.col-12.d-flex', 'li'], 3);
+  // Experience widgets (timeline entries are div.col-12.d-flex; no 'li' fallback
+  // to avoid matching bullet-point <li> elements inside description text)
+  collapseSection('experience',    ['.col-12.d-flex', '.experience-card'], 3);
+  collapseSection('proexperience', ['.col-12.d-flex', '.experience-card'], 3);
+  collapseSection('proService',    ['.col-12.d-flex', '.experience-card'], 3);
 
-  // Publications — citation view renders each pub as a .col-12 card or <li>
+  // Publications
   collapseSection('publications', ['.pub-list-item', 'li', '.col-12'], 3);
 });
 </script>
