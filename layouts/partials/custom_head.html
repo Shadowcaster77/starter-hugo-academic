@@ -1,21 +1,5 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
-  // DEBUG: log child elements of each section so we can find the right selectors
-  ['accomplishments', 'experience', 'proexperience', 'proService'].forEach(function (id) {
-    var sec = document.getElementById(id) || document.getElementById(id.toLowerCase());
-    if (!sec) { console.log('DEBUG ' + id + ': section not found'); return; }
-    var children = Array.from(sec.querySelectorAll('li, .col-12, .col-12.d-flex, .experience-row, .experience-card, .card'));
-    console.log('DEBUG ' + id + ':', {
-      li: sec.querySelectorAll('li').length,
-      'col-12': sec.querySelectorAll('.col-12').length,
-      'col-12.d-flex': sec.querySelectorAll('.col-12.d-flex').length,
-      'col-12.col-md-12': sec.querySelectorAll('.col-12.col-md-12').length,
-      'experience-row': sec.querySelectorAll('.experience-row').length,
-      'experience-card': sec.querySelectorAll('.experience-card').length,
-      card: sec.querySelectorAll('.card').length,
-    });
-  });
-
   function collapseSection(sectionId, selectors, threshold) {
     try {
       var section = document.getElementById(sectionId) ||
@@ -46,17 +30,22 @@ document.addEventListener('DOMContentLoaded', function () {
           : 'Show ' + remaining + ' more ▾';
       });
 
-      var parent = items[0].closest('ul') || items[0].closest('.row') || items[0].parentNode;
-      parent.insertAdjacentElement('afterend', btn);
+      // Insert button right after the last visible item
+      items[threshold - 1].insertAdjacentElement('afterend', btn);
     } catch (e) {
       console.warn('collapseSection(' + sectionId + '):', e);
     }
   }
 
-  collapseSection('accomplishments', ['li', '.col-12.col-md-12', '.experience-item', '.card'], 3);
-  collapseSection('experience',    ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
-  collapseSection('proexperience', ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
-  collapseSection('proService',    ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
-  collapseSection('publications',  ['.pub-list-item', 'li', '.col-12'], 3);
+  // Accomplishments: each item is <div class="card experience course">
+  collapseSection('accomplishments', ['.card.experience.course'], 3);
+
+  // Experience widgets: each entry is <div class="row experience">
+  collapseSection('experience',    ['.row.experience'], 3);
+  collapseSection('proexperience', ['.row.experience'], 3);
+  collapseSection('proService',    ['.row.experience'], 3);
+
+  // Publications
+  collapseSection('publications', ['.pub-list-item', 'li', '.col-12'], 3);
 });
 </script>
