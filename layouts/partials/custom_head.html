@@ -47,14 +47,5 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Publications
   collapseSection('publications', ['.pub-list-item', 'li', '.col-12'], 3);
-
-  // Wireless signal pulse animation behind Biography
-  var about = document.getElementById('about');
-  if (about) {
-    var bg = document.createElement('div');
-    bg.className = 'wireless-bg';
-    bg.innerHTML = '<span></span><span></span><span></span>';
-    about.insertBefore(bg, about.firstChild);
-  }
 });
 </script>
