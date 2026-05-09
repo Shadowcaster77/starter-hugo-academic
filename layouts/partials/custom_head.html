@@ -1,12 +1,27 @@
 <script>
 document.addEventListener('DOMContentLoaded', function () {
+  // DEBUG: log child elements of each section so we can find the right selectors
+  ['accomplishments', 'experience', 'proexperience', 'proService'].forEach(function (id) {
+    var sec = document.getElementById(id) || document.getElementById(id.toLowerCase());
+    if (!sec) { console.log('DEBUG ' + id + ': section not found'); return; }
+    var children = Array.from(sec.querySelectorAll('li, .col-12, .col-12.d-flex, .experience-row, .experience-card, .card'));
+    console.log('DEBUG ' + id + ':', {
+      li: sec.querySelectorAll('li').length,
+      'col-12': sec.querySelectorAll('.col-12').length,
+      'col-12.d-flex': sec.querySelectorAll('.col-12.d-flex').length,
+      'col-12.col-md-12': sec.querySelectorAll('.col-12.col-md-12').length,
+      'experience-row': sec.querySelectorAll('.experience-row').length,
+      'experience-card': sec.querySelectorAll('.experience-card').length,
+      card: sec.querySelectorAll('.card').length,
+    });
+  });
+
   function collapseSection(sectionId, selectors, threshold) {
     try {
       var section = document.getElementById(sectionId) ||
                     document.getElementById(sectionId.toLowerCase());
       if (!section) return;
 
-      // Pick the first selector that finds any matching elements
       var items = [];
       for (var i = 0; i < selectors.length; i++) {
         var found = Array.from(section.querySelectorAll(selectors[i]));
@@ -38,16 +53,10 @@ document.addEventListener('DOMContentLoaded', function () {
     }
   }
 
-  // Honors & Awards
-  collapseSection('accomplishments', ['li'], 3);
-
-  // Experience widgets (timeline entries are div.col-12.d-flex; no 'li' fallback
-  // to avoid matching bullet-point <li> elements inside description text)
-  collapseSection('experience',    ['.col-12.d-flex', '.experience-card'], 3);
-  collapseSection('proexperience', ['.col-12.d-flex', '.experience-card'], 3);
-  collapseSection('proService',    ['.col-12.d-flex', '.experience-card'], 3);
-
-  // Publications
-  collapseSection('publications', ['.pub-list-item', 'li', '.col-12'], 3);
+  collapseSection('accomplishments', ['li', '.col-12.col-md-12', '.experience-item', '.card'], 3);
+  collapseSection('experience',    ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
+  collapseSection('proexperience', ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
+  collapseSection('proService',    ['.experience-row', '.col-12.d-flex', '.experience-card'], 3);
+  collapseSection('publications',  ['.pub-list-item', 'li', '.col-12'], 3);
 });
 </script>
