@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: ACM Wireless of the Students, by the Students, and for the Students Workshop (ACM S3 Workshop, TPC)
-    company: ACM MobiSys
+    company: ACM MobiCom'26 S3
     date_start: '2026-05-01'
     date_end: ''
 
