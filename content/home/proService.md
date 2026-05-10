@@ -23,6 +23,11 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: ACM Wireless of the Students, by the Students, and for the Students Workshop (ACM S3 Workshop, TPC)
+    company: ACM MobiSys
+    date_start: '2026-05-01'
+    date_end: ''
+
   - title: The 3rd International Academic Conference on Optics and Photonics (Reviewer)
     company: IACOP'25
     date_start: '2025-10-31'
