@@ -29,7 +29,11 @@ experience:
     date_start: '2026-01-20'
     date_end: '2026-05-08'
     description: |2-
-        * Platform Innovation
+        * Member of the Platform Innovation Team, conducting research on next‑generation virtualized Radio Access Networks (vRAN).
+        * Updated USRP-based OAI-UE to investigate DL-ISAC functionality with a commercial vRAN platform.
+        * Investigated the feasibility of commercial GPU‑accelerated Layer‑1 (PHY) processing for 5G/6G vRAN.
+        * Optimized the LDPC decoding algorithm and improved NVIDIA Aerial cuBB LDPC decoder performance by 0.7 dB.
+        * Developing and optimizing Frequency-Domain Equalization (FDEQ) within NVIDIA Aerial cuBB to improve link performance, robustness, and overall PHY-layer efficiency.
 
   - title: Wireless R&D RF SYS Internship
     company: Qualcomm 
