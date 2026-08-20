@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 experience:
   - title: IEEE Journal on Selected Areas in Communications (JSAC, Reviewer)
-    company: IEEE Communications Society
+    company: IEEE JSAC
     date_start: '2026-08-01'
     date_end: ''
 
