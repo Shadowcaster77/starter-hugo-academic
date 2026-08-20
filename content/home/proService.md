@@ -23,20 +23,25 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
+  - title: IEEE Journal on Selected Areas in Communications (JSAC, Reviewer)
+    company: IEEE Communications Society
+    date_start: '2026-08-01'
+    date_end: ''
+
   - title: Scientific Reports, Nature Portfolio (Reviewer)
     company: Nature Portfolio
     date_start: '2026-06-01'
-    date_end: ''
+    date_end: '2026-08-01'
 
   - title: 'IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC): Workshop on Communication, Computing, Intelligence and Control in the 6G IoT-Edge-Cloud Continuum (Reviewer)'
     company: IEEE PIMRC-WS6 2026
     date_start: '2026-06-01'
-    date_end: ''
+    date_end: '2026-06-01'
 
   - title: ACM Wireless of the Students, by the Students, and for the Students Workshop (ACM S3 Workshop, TPC)
     company: ACM MobiCom'26 S3
     date_start: '2026-05-01'
-    date_end: ''
+    date_end: '2026-08-01'
 
   - title: The 3rd International Academic Conference on Optics and Photonics (Reviewer)
     company: IACOP'25
