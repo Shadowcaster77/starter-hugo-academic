@@ -12,6 +12,21 @@ design:
 <div style="max-height: 260px; overflow-y: auto; padding-right: 6px;">
 
 <div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
+  <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Jun 2026</span>
+  <span>Invited to serve as a reviewer for <strong>IEEE JSAC</strong>.</span>
+</div>
+
+<div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
+  <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Jun 2026</span>
+  <span>Invited to serve as a reviewer for <strong>Scientific Reports, Nature Portfolio</strong>.</span>
+</div>
+
+<div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
+  <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Jun 2026</span>
+  <span>Invited to serve as a reviewer for <strong>IEEE PIMRC-WS6 2026</strong>.</span>
+</div>
+
+<div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
   <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">May 2026</span>
   <span>Selected to serve on the Technical Program Committee for the <strong>ACM S3 2026 Workshop</strong>.</span>
 </div>
