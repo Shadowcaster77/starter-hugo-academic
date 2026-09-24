@@ -12,6 +12,11 @@ design:
 <div style="max-height: 260px; overflow-y: auto; padding-right: 6px;">
 
 <div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
+  <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Sep 2026</span>
+  <span>Invited to serve as a reviewer for <strong>IEEE JSAC</strong>.</span>
+</div>
+
+<div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
   <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Jun 2026</span>
   <span>Invited to serve as a reviewer for <strong>IEEE JSAC</strong>.</span>
 </div>
