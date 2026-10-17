@@ -5,7 +5,7 @@ title: Zhenzhou (Tom) Qi
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. Candidiate at Duke University
+role: Senior Research Engineer at Samsung Research America
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,7 +26,7 @@ education:
   courses:
   - course: PhD in Electrical and Computer Engineering
     institution: Duke University
-    year: Present
+    year: 2026
   - course: MEng in Electrical and Computer Engineering
     institution: Cornell University
     year: 2021
@@ -59,6 +59,6 @@ email: "zhenzhou.qi@duke.edu"
 highlight_name: true
 ---
 
-   Tom (戚振周) is a fifth-year Ph.D. candidate in department of Electrical and Computer Engineering at Duke University advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He works in the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
+   Tom (戚振周) is a Senior Research Engineer at Samsung Research America. He earned his Ph.D. in the department of Electrical and Computer Engineering at Duke University, advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He was a member of the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
