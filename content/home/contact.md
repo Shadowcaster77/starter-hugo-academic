@@ -20,18 +20,17 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zhenzhou.qi@duke.edu
-  phone: 732 322 2498
   address:
-    street: 534 Research Dr
-    city: Durham
-    region: NC
-    postcode: '27705'
+    street: 6105 Tennyson Pkwy
+    city: Plano
+    region: TX
+    postcode: '75024'
     country: United States
     country_code: US
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Floor 4, Room 427
+    latitude: '33.0836'
+    longitude: '-96.8206'
+  directions: Samsung Research America
 design:
   columns: '2'
 ---

@@ -9,7 +9,7 @@ role: Senior Research Engineer at Samsung Research America
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Duke University
+- name: Samsung Research America
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include vRAN, Heterogeneous Computing and Computer Networks.
@@ -60,5 +60,3 @@ highlight_name: true
 ---
 
    Tom (戚振周) is a Senior Research Engineer at Samsung Research America. He earned his Ph.D. in the department of Electrical and Computer Engineering at Duke University, advised by Professor {{< staticref "https://tingjunchen.com/" "newtab" >}} Tingjun Chen{{< /staticref >}}. Tom's research interests include vRAN; Heterogeneous Computing; Wireless networks with a focus on 5G, millimeter-wave communications, massive MIMO, and edge cloud computing; Computer Networks. He was a member of the Duke FuNCtions Lab, which works on next-generation wireless networks and systems.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

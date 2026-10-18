@@ -13,6 +13,11 @@ design:
 
 <div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
   <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Oct 2026</span>
+  <span>Started as a <strong>Senior Research Engineer</strong> at <strong>Samsung Research America</strong>.</span>
+</div>
+
+<div style="display:flex; gap:1rem; margin-bottom:0.55rem; line-height:1.5;">
+  <span style="min-width:80px; color:#9a9a9a; font-size:0.9em; white-space:nowrap; padding-top:1px;">Oct 2026</span>
   <span>Successfully defended my Ph.D. thesis, <strong>Scalable and Efficient Virtualized Radio Access Networks through Heterogeneous Computing</strong>!</span>
 </div>
 
