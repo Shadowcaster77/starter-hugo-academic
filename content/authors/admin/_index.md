@@ -5,7 +5,7 @@ title: Zhenzhou (Tom) Qi
 superuser: true
 
 # Role/position/tagline
-role: Senior Research Engineer at Samsung Research America
+role: Senior Research Engineer
 
 # Organizations/Affiliations to show in About widget
 organizations:
